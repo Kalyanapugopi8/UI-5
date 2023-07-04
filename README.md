@@ -1,4 +1,5 @@
-<h1> ERD Diagram </h1>
+<h1> ER Diagram </h1>
+
 ![ERD](https://github.com/Kalyanapugopi8/UI-5/assets/135269892/714fe416-e09c-4664-ace7-48338b9c34b7)
 
 <br>
